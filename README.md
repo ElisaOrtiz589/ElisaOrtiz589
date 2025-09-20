@@ -51,6 +51,11 @@ I am an undergraduate Front End student at Desafio Latam. HTML, CSS, Javascript,
 </a>
 
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ElisaOrtiz589&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ElisaOrtiz589)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ElisaOrtiz589&theme=material-palenight)](https://github.com/ElisaOrtiz589)
+
 
 
 
