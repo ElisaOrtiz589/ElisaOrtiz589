@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Front End student at Desafio Latam. HTML, CSS, Javascript,  and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Front End student at Desafio Latam. HTML, CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - Javascript
